@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "856923100922118164",
+        "secret": "uTC4mwmzUM2xUqm7Qs3r9rVYDzp4YI-y",
+        "token": "ODU2OTIzMTAwOTIyMTE4MTY0.YNIF1A.ocmlNfjaGtY9Q4pu-YQ8-RRGbdI"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://Uptimer-1.snzy027.repl.co",
+        "callback": "https://Uptimer-1.snzy027.repl.co/callback",
+        "discord_server_ID": "855743654361563156",
+        "owners": [
+            "652074628298047512"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://SimpleGarage:malangez@databotdiscord.whg2s.mongodb.net/WebsiteUptimer?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/gN48Ptvuvb"
+}
